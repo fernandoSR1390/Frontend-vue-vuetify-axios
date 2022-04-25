@@ -1,6 +1,6 @@
 
-//let url = 'http://localhost:8000/api/productos/';//laravel7
-let url = 'http://localhost:3000/api/productos/';//nodejs
+let url = 'http://localhost:8000/api/productos/';//laravel7
+//let url = 'http://localhost:3000/api/productos/';//nodejs
 
 new Vue({
   el: '#app',
